@@ -1,2 +1,2 @@
 # Web-development
-Birthday invite project
+HTML Birthday invite project
